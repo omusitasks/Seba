@@ -1,0 +1,28 @@
+Look at this list sir
+
+This pertains to regression models and computations.
+
+The main issue is that the netsentiment data cannot be used; it is a daily data used to measure investor sentiment, and my research focuses on the relationship between abnormal returns of 52 companies over a 10-year period and these variables.
+
+Which variable in the open source data is interchangeable?
+
+Replace this netsentiment variable with a measure of investor sentiment.
+
+The data for mergers and acquisitions over the past ten years, the dates, and other variables do not need to be changed; what we need to find now is the replacement variable for netsentiment.
+
+Use open source data to find netsense to replace the variable, re-collect data + run regression results
+
+This is the graduation thesis, now want to change the independent variable, with open source data to find alternative netsense variables, and then run the model to get the results, and then only write the part of the methodology.
+
+All you need to do is assist the client in locating this alternative data (which should include daily investor sentiment data for 52 companies over a 10-year period, or weekly data), and I will send you the 52 company codes.
+
+They are all American tech companies.
+
+Can you manage sir?
+
+
+After all above chats I asked:
+
+Me: Is there any other additional information?
+
+Middleman: The client wanted to know  which open-source dataset you plan to use, and make sure it includes variables that can capture investor sentiment during mergers and acquisitions.
